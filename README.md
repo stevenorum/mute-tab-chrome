@@ -1,21 +1,21 @@
-# <img src="src/imgs/128.png" width="30"> Chrome Mute tabs
+# <img src="src/imgs/128.png" width="30"> Chrome Tab Automute
 
-You have music playing in one tab. You open another website that also plays music. You don't have to listen this awful mix anymore, since you can mute tabs with shortcuts. And unmute them back too!
 
-![](https://cloud.githubusercontent.com/assets/3745612/15074638/11be2876-136e-11e6-9d4b-8bed4e7adf5d.png)
 
-![](screenshot_2.png)
+Automatically mutes new tabs, so that autoplaying videos and sound effects don't interrupt with your music/Netflix/whatever.
 
 ## Install
 
-1. Install the extension from [Chrome Webstore](https://chrome.google.com/webstore/detail/mute-tab-shortcuts/opcjanmpjbdbdpnjfjbboacibokblbhl)
-2. Enable the "Tab audio muting UI control" in
+1. Enable the "Tab audio muting UI control" in
 chrome://flags/. Extension uses this
 experimental feature (as of Chrome 51). Quick access at
 [chrome://flags/#enable-tab-audio-muting](chrome://flags/#enable-tab-audio-muting)
 
 ![](https://cloud.githubusercontent.com/assets/2384694/15074973/57019966-13a2-11e6-834e-3362074c5d16.png)
 
-## Licence
+2. Install this extension.  Currently must be done from source as I haven't bothered to put it up in the Chrome extension store yet.
 
-MIT © [Daniel Pham](https://danhp.github.io)
+## License
+
+Most code in here by Steve Norum.  That's all released under the BeerWare license.
+The instructions in this README and the icons/screenshots are from [danhp/mute-tab-chrome](https://github.com/danhp/mute-tab-chrome) by [Daniel Pham](https://danhp.github.io) and are under the MIT license.  In addition, the code for that extension, although not reused in this one, made figuring out how to write this one incredibly simple.

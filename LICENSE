@@ -1,0 +1,16 @@
+/*
+ * -----------------------------------------------------------------------------
+ * The instructions in the README and the icons/screenshots are from 
+ * [danhp/mute-tab-chrome](https://github.com/danhp/mute-tab-chrome) by 
+ * [Daniel Pham](https://danhp.github.io) and are under the MIT license.
+ * In addition, the code for that extension, although not reused in this one, 
+ * made figuring out how to write this one incredibly simple.
+ * -----------------------------------------------------------------------------
+ * THE BEERWARE LICENSE
+ * Steve Norum (sn@littlestviking.com) wrote everything not explicitly called 
+ * out above.  As long as you retain this notice you can do whatever you want 
+ * with this stuff. If we meet some day and you think this stuff is worth it, 
+ * you can buy me a beer in return.
+ * [License text shamelessly stolen from Poul-Henning Kamp/phk@FreeBSD.ORG]
+ * -----------------------------------------------------------------------------
+ */
